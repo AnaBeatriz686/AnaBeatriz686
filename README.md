@@ -10,4 +10,4 @@ Procurando oportunidades de crescimento
 - LinkedIn: www.linkedin.com/in/ana-beatriz-esteves-da-silva-30659230b
 
 - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaBeatriz686)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaBeatriz686&show_icons=true&theme=tokyonight)
