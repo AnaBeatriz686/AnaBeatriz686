@@ -1,7 +1,5 @@
 # Oi, sou a Ana Beatriz!
 
-## Sobre mim:
-
 Estou no segundo ano de Engenharia de Software na UniFil, participo do Núcleo de Práticas de Informática (NPI), sou monitora do Pensamento Computacional, participo do projeto Aluno Tutor Google e tenho interesse na área de Desenvolvimento Full-Stack e de Cibersegurança. Também fiz o Ensino Médio juntamente com um curso técnico de Administração. Tenho inglês intermediário e atualmente não possuo experiência profissional, mas gosto de aprender coisas novas, sou autodidata e desejo trabalhar na área da computação.
 
 <p align="center">
