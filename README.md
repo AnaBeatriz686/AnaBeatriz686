@@ -1,4 +1,3 @@
-![_witch_-Debbie Balboa](https://github.com/user-attachments/assets/313778f9-f85e-42ab-aef9-633e7f1fb32a)
 # Oi, eu sou a Bia
 
 Estudante de Engenharia de Software 
