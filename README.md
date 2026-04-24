@@ -34,7 +34,7 @@ Estou no segundo ano de Engenharia de Software na UniFil, participo do Núcleo d
 </a>
 
 <a href="https://sites.google.com/edu.unifil.br/portfolioextensao-ab/in%C3%ADcio" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Portfolio-Online-black?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfólio-Google%20Sites-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </a>
 
 ---
