@@ -22,7 +22,4 @@ Estou no segundo ano de Engenharia de Software na UniFil, participo do Núcleo d
 - Revisando alguns conteúdos de Java e aprendendo mais sobre SpringBoot e MongoDB.
 - Aprendendo francês e constantemente treinando o inglês.
 - Revisando conceitos de HTML e CSS.
-
-## Contato:
-
 ---
