@@ -25,7 +25,7 @@ Estou no segundo ano de Engenharia de Software na UniFil, participo do Núcleo d
 
 ## Contato:
 
-<a href="www.linkedin.com/in/ana-beatriz-esteves-da-silva-30659230b" target="_blank" rel="noopener noreferrer">
+<a href="www.linkedin.com/in/ana-beatriz-esteves-da-silva-3065923" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
@@ -33,8 +33,8 @@ Estou no segundo ano de Engenharia de Software na UniFil, participo do Núcleo d
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
-<a href="https://sites.google.com/edu.unifil.br/portfolioextensao-ab/in%C3%ADcio" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Portfólio-Google%20Sites-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<a href="https://sites.google.com/view/edu.unifil.br/portfolioextensao-ab/início" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfólio-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
 ---
