@@ -10,6 +10,7 @@ Estou no segundo ano de Engenharia de Software na UniFil, participo do Núcleo d
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux_Mint-217B21?style=for-the-badge&logo=linux-mint&logoColor=white" alt="Linux Mint" />
 </p>
 
 ## Estatísticas:
