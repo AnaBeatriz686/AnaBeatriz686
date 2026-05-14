@@ -20,8 +20,7 @@ Estou no segundo ano de Engenharia de Software na UniFil, participo do Núcleo d
 ## Estatísticas:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnaBeatriz686&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBeatriz686&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnaBeatriz686&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## O que estou estudando no momento?
