@@ -13,17 +13,21 @@ Estou no segundo ano de Engenharia de Software na UniFil, participo do Núcleo d
   <img src="https://img.shields.io/badge/Linux_Mint-217B21?style=for-the-badge&logo=linux-mint&logoColor=white" alt="Linux Mint" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+  
 </p>
 
 ## Estatísticas:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnaBeatriz686&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBeatriz686&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnaBeatriz686&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBeatriz686&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 </div>
 
 ## O que estou estudando no momento?
 - Revisando alguns conteúdos de Java e aprendendo mais sobre SpringBoot e MongoDB.
 - Aprendendo francês e constantemente treinando o inglês.
 - Revisando conceitos de HTML e CSS.
+- Aprendendo Python para minha monitoria de computação.
+- Aprendendo Lua por diversão.
 ---
