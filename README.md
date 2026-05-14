@@ -21,6 +21,7 @@ Estou no segundo ano de Engenharia de Software na UniFil, participo do Núcleo d
 
 <div align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnaBeatriz686&layout=compact&theme=tokyonight&hide_border=true" alt="Minhas Linguagens" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=AnaBeatriz686&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
 </div>
 
 ## O que estou estudando no momento?
