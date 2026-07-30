@@ -13,7 +13,6 @@ Estou no segundo ano de Engenharia de Software na UniFil, participo do Núcleo d
   <img src="https://img.shields.io/badge/Linux_Mint-217B21?style=for-the-badge&logo=linux-mint&logoColor=white" alt="Linux Mint" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
 </p>
 
 ## Estatísticas:
@@ -28,5 +27,4 @@ Estou no segundo ano de Engenharia de Software na UniFil, participo do Núcleo d
 - Aprendendo francês e constantemente treinando o inglês.
 - Revisando de Desenvolvimento Web.
 - Aprendendo Python para minha monitoria de computação.
-- Aprendendo Lua por diversão.
 ---
