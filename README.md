@@ -1,6 +1,6 @@
 # Oi, sou a Ana Beatriz!
 
-Estou no segundo ano de Engenharia de Software na UniFil, participo do Núcleo de Práticas de Informática (NPI), sou monitora do Pensamento Computacional, participo do projeto Aluno Tutor Google e tenho interesse na área de Desenvolvimento Full-Stack e de Cibersegurança. Também fiz o Ensino Médio juntamente com um curso técnico de Administração. Tenho inglês intermediário e atualmente não possuo experiência profissional, mas gosto de aprender coisas novas, sou autodidata e desejo trabalhar na área da computação.
+Estou no segundo ano de Engenharia de Software na UniFil, participo do Núcleo de Práticas de Informática (NPI), sou monitora do Pensamento Computacional, participo do projeto Aluno Tutor Google,faço parte do Grupo de Pesquisa de IA e tenho interesse na área de Desenvolvimento Full-Stack e de Cibersegurança. Também fiz o Ensino Médio juntamente com um curso técnico de Administração. Tenho inglês intermediário e atualmente não possuo experiência profissional, mas gosto de aprender coisas novas, sou autodidata e desejo trabalhar na área da computação.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white" alt="Java" />
@@ -25,6 +25,5 @@ Estou no segundo ano de Engenharia de Software na UniFil, participo do Núcleo d
 ## O que estou estudando no momento?
 - Revisando alguns conteúdos de Java e aprendendo mais sobre SpringBoot e MongoDB.
 - Aprendendo francês e constantemente treinando o inglês.
-- Revisando de Desenvolvimento Web.
-- Aprendendo Python para minha monitoria de computação.
+- Revisando de Desenvolvimento Web, com foco em frameworks.
 ---
