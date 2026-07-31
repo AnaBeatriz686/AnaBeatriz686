@@ -17,13 +17,24 @@ Estou no segundo ano de Engenharia de Software na UniFil, participo do Núcleo d
 
 ## Estatísticas:
 
-<div align="center" width=200>
+<div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnaBeatriz686&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Linguagens mais usadas"/>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnaBeatriz686&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnaBeatriz686&show_icons=true&theme=radical&hide_border=true" />
 </div>
 
 ## O que estou estudando no momento?
-- Revisando alguns conteúdos de Java e aprendendo mais sobre SpringBoot e MongoDB.
-- Aprendendo francês e constantemente treinando o inglês.
-- Revisando de Desenvolvimento Web, com foco em frameworks.
+
+| Dia | Conteúdo | Tópico Foco | Status |
+| :--- | :--- | :--- | :---: |
+| **Segunda** | Estrutura de Dados | Listas Encadeadas e Árvores | 🟢 Concluído |
+| **Terça** | Banco de Dados | SQL e Modelagem ER | 🟡 Em Progresso |
+| **Quarta** | Engenharia de Software | Métodos Ágeis e Scrum | 🔴 Pendente |
+| **Quinta** | Programação Web | APIs RESTful e React | 🟡 Em Progresso |
+| **Sexta** | Redes de Computadores | Modelo OSI e TCP/IP | 🔴 Pendente |
+
+##  Como me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-beatriz-esteves-da-silva-30659230b/)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anabeatriz.esteves06@gmail.com)
+
 ---
