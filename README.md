@@ -30,7 +30,7 @@ Estou no segundo ano de Engenharia de Software na UniFil, participo do Núcleo d
   </table>
 </div>
 
-## O que estou estudando no momento?
+## Cronograma da semana!
 
 <div align="center">
 
@@ -38,9 +38,9 @@ Estou no segundo ano de Engenharia de Software na UniFil, participo do Núcleo d
 | :--- | :--- | :--- | :---: |
 | **Segunda** | JavaScript | Variáveis, Strings, Números e Booleanos | 🟡 Em Progresso |
 | **Terça** | JavaScript | Funções, Arrays e Objetos| 🟡 Em Progresso |
-| **Quarta** |  |  | 🟡 Em Progresso |
+| **Quarta** | Monitoria | JavaScript | 🟡 Em Progresso |
 | **Quinta** |  |  | 🟡 Em Progresso |
-| **Sexta** |  | | 🟡 Em Progresso |
+| **Sexta** | Grupo de IA | --------- | 🟡 Em Progresso |
 </div>
 
 ---
