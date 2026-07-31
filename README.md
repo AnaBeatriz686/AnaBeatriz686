@@ -18,12 +18,21 @@ Estou no segundo ano de Engenharia de Software na UniFil, participo do Núcleo d
 ## Estatísticas:
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnaBeatriz686&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Linguagens mais usadas"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnaBeatriz686&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnaBeatriz686&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Linguagens mais usadas"/>
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnaBeatriz686&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Estatísticas do GitHub" />
 </div>
 
-## O que estou estudando no momento?
 <div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBeatriz686&layout=compact&theme=radical&hide_border=true" />
+  
+  &nbsp;&nbsp;
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AnaBeatriz686&show_icons=true&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+## O que estou estudando no momento?
+
 | Dia | Conteúdo | Tópico Foco | Status |
 | :--- | :--- | :--- | :---: |
 | **Segunda** | Estrutura de Dados | Listas Encadeadas e Árvores | 🟢 Concluído |
