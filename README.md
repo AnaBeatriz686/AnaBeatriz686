@@ -21,7 +21,7 @@ Estou no segundo ano de Engenharia de Software na UniFil, participo do Núcleo d
   <table>
     <tr>
       <td>
-        <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBeatriz686&layout=compact&theme=radical&hide_border=true" />
+        <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnaBeatriz686&layout=compact&theme=tokyonight&hide_border=true" />
       </td>
       <td>
         <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnaBeatriz686&show_icons=true&theme=tokyonight&hide_border=true" />
