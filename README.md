@@ -18,7 +18,7 @@ Estou no segundo ano de Engenharia de Software na UniFil, participo do Núcleo d
 ## Estatísticas:
 
 <div align="center">
-  <table color="black">
+  <table border="black">
     <tr>
       <td>
         <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnaBeatriz686&show_icons=true&theme=tokyonight&hide_border=true" />
