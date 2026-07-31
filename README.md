@@ -18,28 +18,33 @@ Estou no segundo ano de Engenharia de Software na UniFil, participo do Núcleo d
 ## Estatísticas:
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnaBeatriz686&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Linguagens mais usadas"/>
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnaBeatriz686&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnaBeatriz686&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnaBeatriz686&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Estatísticas do GitHub" />
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBeatriz686&layout=compact&theme=radical&hide_border=true" />
-  
-  &nbsp;&nbsp;
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AnaBeatriz686&show_icons=true&theme=radical&hide_border=true" />
+  <table>
+    <tr>
+      <td>
+        <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnaBeatriz686&show_icons=true&theme=tokyonight&hide_border=true" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnaBeatriz686&show_icons=true&theme=tokyonight&hide_border=true" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
 ## O que estou estudando no momento?
 
-| Dia | Conteúdo | Tópico Foco | Status |
+| Dia | Conteúdo | Tópico Foco | Status 🟢🟡🔴 |
 | :--- | :--- | :--- | :---: |
-| **Segunda** | Estrutura de Dados | Listas Encadeadas e Árvores | 🟢 Concluído |
-| **Terça** | Banco de Dados | SQL e Modelagem ER | 🟡 Em Progresso |
-| **Quarta** | Engenharia de Software | Métodos Ágeis e Scrum | 🔴 Pendente |
-| **Quinta** | Programação Web | APIs RESTful e React | 🟡 Em Progresso |
-| **Sexta** | Redes de Computadores | Modelo OSI e TCP/IP | 🔴 Pendente |
+| **Segunda** | JavaScript | Variáveis, Strings, Números e Booleanos | 🟡 Em Progresso |
+| **Terça** | JavaScript | Funções, Arrays e Objetos| 🟡 Em Progresso |
+| **Quarta** |  |  | 🟡 Em Progresso |
+| **Quinta** |  |  | 🟡 Em Progresso |
+| **Sexta** |  | | 🟡 Em Progresso |
 </div>
 
 ---
