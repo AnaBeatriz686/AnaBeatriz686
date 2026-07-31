@@ -30,7 +30,7 @@ Estou no segundo ano de Engenharia de Software na UniFil, participo do Núcleo d
   </table>
 </div>
 
-## Cronograma da semana!
+## Cronograma da semana:
 
 <div align="center">
 
