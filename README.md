@@ -36,10 +36,10 @@ Estou no segundo ano de Engenharia de Software na UniFil, participo do Núcleo d
 
 | Dia | Conteúdo | Tópico Foco | Status 🟢🟡🔴 |
 | :---: | :---: | :---: | :---: |
-| **Segunda** | JavaScript | Variáveis, Strings, Números e Booleanos | 🟡 Em Progresso |
-| **Terça** | JavaScript | Funções, Arrays e Objetos| 🟡 Em Progresso |
+| **Segunda** | JavaScript | Variáveis e Strings | 🟢 Concluído |
+| **Terça** | JavaScript | Números e Booleanos | 🟡 Em Progresso |
 | **Quarta** | Monitoria | JavaScript | 🟡 Em Progresso |
-| **Quinta** | Web Design | HTML | 🟡 Em Progresso |
+| **Quinta** | JavaScript | Funções, Arrays e Objetos | 🟡 Em Progresso |
 | **Sexta** | Grupo de IA | -------------- | 🟡 Em Progresso |
 
 </div>
